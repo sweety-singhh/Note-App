@@ -6,10 +6,7 @@ export default {
   ],
   theme: {
     extend: {
-      colors:{
-        
-        secondary:"#EF863E",
-      }
+      
     },
   },
   plugins: [],
